@@ -1,6 +1,9 @@
 # gcloud.shell.startup-scripts
 
 
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2Fsmuel1414%2Fgcloud.shell.startup-scripts.git)
+
+
 ### Quotes from gcloud console 
 > Welcome to Google Cloud Shell, a tool for managing resources hosted on Google Cloud Platform!
  The machine comes pre-installed with the Google Cloud SDK and other popular developer tools.
