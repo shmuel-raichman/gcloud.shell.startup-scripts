@@ -1,7 +1,6 @@
 # gcloud.shell.startup-scripts
 
-
-[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2Fsmuel1414%2Fgcloud.shell.startup-scripts.git)
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2Fsmuel1414%2Fgcloud.shell.startup-scripts.git&cloudshell_print=README.md)
 
 
 ### Quotes from gcloud console 
