@@ -24,3 +24,7 @@ sudo docker run hello-world
 sudo usermod -aG docker $USER
 newgrp docker
 docker run hello-world
+
+sudo curl -L "https://github.com/docker/compose/releases/download/$DOCKER_COMPOSE_VERSION/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
+chmod +x /usr/local/bin/docker-compose
+
